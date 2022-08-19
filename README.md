@@ -6,6 +6,8 @@ SSAFY + KARAOKE
 
 개발기간:  2022.01.04 ~ 2022.02.18  [7주]
 
+<img width="1076" alt="image" src="https://user-images.githubusercontent.com/45715824/185537697-857c269e-918e-4c68-a319-df5887b059ae.png">
+
 ​																												
 
 ​																																
@@ -28,15 +30,16 @@ SSAFY + KARAOKE
 
 ---
 
-![image-20220225153643981](README.assets/image-20220225153643981.png)
+<img width="1066" alt="image" src="https://user-images.githubusercontent.com/45715824/185540320-b38102bc-d406-494c-8679-da1f9ef2e4a5.png">
 
 
 
-정구아(Leader, BE) : Backend, WebRTC, Server, Api, 발표
 
-배지환(BE): Backend, Api, Server, WebRTC
+정구아(Leader, BE) : WebRTC, API Server, Deploy, 발표
 
-유혜승(BE): Backend, Jira, Api, Server, WebRTC
+배지환(BE): Api Server, WebRTC
+
+유혜승(BE): Jira, Api Server, WebRTC
 
 서승원(FE): Frontend (Home, Login, Youtube)
 
@@ -80,6 +83,9 @@ SSAFY + KARAOKE
 
 #### 1.1 기획 배경
 
+<img width="1072" alt="image" src="https://user-images.githubusercontent.com/45715824/185538226-64cafd93-983d-416d-b9d1-4f7d7314eb0a.png">
+
+
 ![image-20220225154516379](README.assets/image-20220225154516379.png)
 
 ![image-20220225154530626](README.assets/image-20220225154530626.png)
@@ -98,7 +104,7 @@ SSAFY + KARAOKE
 
 #### 1.2 기존 서비스의 한계와 보완
 
-![image-20220225154937654](README.assets/image-20220225154937654.png)
+<img width="1083" alt="image" src="https://user-images.githubusercontent.com/45715824/185537916-4d07810f-7998-4cb7-83be-227a802cdec6.png">
 
 SSARAOKE는 기존의 화상 서비스들과 달리, 노래방이라는 컨셉에 집중적으로 초점을 맞추어,
 
@@ -108,7 +114,7 @@ SSARAOKE는 기존의 화상 서비스들과 달리, 노래방이라는 컨셉�
 
 #### 1.3 다양한 기능
 
-![image-20220225160243657](README.assets/image-20220225160243657.png)
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/45715824/185538019-689f46de-35db-43f9-ad85-3945ab669502.png">
 
 ​									
 
@@ -122,7 +128,7 @@ SSARAOKE는 기존의 화상 서비스들과 달리, 노래방이라는 컨셉�
 
 #### 2.1 사용한 기술 스택
 
-![image-20220225155234647](README.assets/image-20220225155234647.png)
+<img width="1062" alt="image" src="https://user-images.githubusercontent.com/45715824/185538146-0fd0dc8a-2d6e-426e-8f59-2f4be7175495.png">
 
 ​																																										
 
