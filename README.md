@@ -183,3 +183,9 @@ tj 미디어에 이메일을 통해 협조 요청 메일을 보냈고, 감사하
 ![image-20220225160427184](README.assets/image-20220225160427184.png)
 
 ![image-20220225160436071](README.assets/image-20220225160436071.png)
+
+Thanks!
+
+<img width="488" alt="image" src="https://user-images.githubusercontent.com/45715824/185540858-d72c6770-98ac-4be9-bb42-5af10d706a73.png">
+
+
